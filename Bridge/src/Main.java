@@ -11,6 +11,7 @@ public class Main {
     public static void main(String[] a) {
         final CarWindow win = new CarWindow();
 
+        
         win.pack();
         win.setVisible(true);
 
